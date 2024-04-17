@@ -53,7 +53,7 @@ Languages and Tools🛠:
   <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
-<a href="www.linkedin.com/in/daviddepabloapellaniz">
+<a href="https://www.linkedin.com/in/daviddepabloapellaniz">
   <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
