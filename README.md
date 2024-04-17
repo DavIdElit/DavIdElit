@@ -3,8 +3,7 @@
 ### About me🧑:
 I am a Computer Engineering student at the University of La Rioja and certified as a Web Developer.<br/> 
 During my education, I have completed internships as a Backend Developer in e-Learning portals and as a programmer for cross-platform applications.<br/>
-I am passionate about learning and particularly interested in gaining knowledge in areas such as Data Science, Machine Learning, and Artificial Intelligence.<br/> 
-I am excited about the opportunity to expand my skills and contribute to the growth of technology in these fields.
+I am passionate about learning and particularly interested in gaining knowledge in areas such as Data Science, Machine Learning, and Artificial Intelligence.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
