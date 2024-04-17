@@ -67,13 +67,12 @@ Languages and Tools🛠:
 ### Github Activity ✔:
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavIdElit&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavIdElit&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavIdElit&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DavIdElit&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </p>
-<br/>
 <br/>
 <br/>
 
