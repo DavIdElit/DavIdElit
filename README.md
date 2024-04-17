@@ -6,14 +6,19 @@ During my education, I have completed internships as a Backend Developer in e-Le
 I am passionate about learning and particularly interested in gaining knowledge in areas such as Data Science, Machine Learning, and Artificial Intelligence.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+<br/>
+<br/>
+<br/>
+- 🔭 I’m currently working on Backend Web Development.<br/>
+- 🌱 I’m currently learning Andorid & Web Development.<br/>
+- 🤔 I’m looking for help with Open source Contribution.<br/>
+- 💬 Ask me about Web and Android Development.<br/>
+- 😄 Pronouns: He/Him<br/>
+- ⚡ Fun fact: I 💖 to code 24x7.<br/>
 
-- 🔭 I’m currently working on Backend Web Development.
-- 🌱 I’m currently learning Andorid & Web Development.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Web and Android Development.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
-
+<br/>
+<br/>
+<br/>
 <br/>
 
 ---
