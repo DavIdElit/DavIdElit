@@ -13,8 +13,6 @@ I am passionate about learning and particularly interested in gaining knowledge 
 - 💬 Ask me about Web and Android Development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
-- 🎢 Profile Visitors Count:  
-![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
 
 <br/>
 
