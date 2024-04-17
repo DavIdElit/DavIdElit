@@ -1,9 +1,10 @@
 [![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io)
 
 ### About me🧑:
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+I am a Computer Engineering student at the University of La Rioja and certified as a Web Developer.<br/> 
+During my education, I have completed internships as a Backend Developer in e-Learning portals and as a programmer for cross-platform applications.<br/>
+I am passionate about learning and particularly interested in gaining knowledge in areas such as Data Science, Machine Learning, and Artificial Intelligence.<br/> 
+I am excited about the opportunity to expand my skills and contribute to the growth of technology in these fields.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
