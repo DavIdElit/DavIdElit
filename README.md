@@ -1,4 +1,3 @@
-[![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io)
 
 ### About me🧑:
 I am a Computer Engineering student at the University of La Rioja and certified as a Web Developer.<br/> 
